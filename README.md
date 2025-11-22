@@ -1,7 +1,7 @@
 # João Souza
 
 I'm a frontend developer who loves turning ideas into beautiful and functional interfaces.  
-I work with **React**, **Next.js**, **TypeScript**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, using **Git**, **GitHub**, and **REST APIs** in my daily projects.
+I work with **React**, **TypeScript**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, using **Git**, **GitHub**, and **REST APIs** in my daily projects.
 
 I enjoy learning new technologies, collaborating with other developers, and taking on challenges that help me grow.  
 I love seeing a project come to life on the screen and knowing that what I built makes someone’s day a little easier.
@@ -18,12 +18,6 @@ I love seeing a project come to life on the screen and knowing that what I built
 ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=api&logoColor=fff)
 
 
-
----
-
-## 📊 GitHub Stats
-![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=jhssouza-dev&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhssouza-dev&layout=compact&theme=transparent)
 
 ---
 
