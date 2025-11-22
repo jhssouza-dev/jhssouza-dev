@@ -1,16 +1,28 @@
-## Hi there 👋
+# João Souza
 
-<!--
-**jhssouza-dev/jhssouza-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer who loves turning ideas into beautiful and functional interfaces.  
+I work with **React**, **Next.js**, **TypeScript**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, using **Git**, **GitHub**, and **REST APIs** in my daily projects.
 
-Here are some ideas to get you started:
+I enjoy learning new technologies, collaborating with other developers, and taking on challenges that help me grow.  
+I love seeing a project come to life on the screen and knowing that what I built makes someone’s day a little easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- **JavaScript • TypeScript • React • Next.js**
+- **HTML • CSS • Tailwind CSS**
+- **Git • GitHub**
+- **REST APIs**
+
+---
+
+## 📊 GitHub Stats
+![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=jhssouza-dev&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhssouza-dev&layout=compact&theme=transparent)
+
+---
+
+## 📫 Contact
+- **Email:** jhssouza.it@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/jhssouza-dev/  
+
